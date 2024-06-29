@@ -1,0 +1,15 @@
+llama-index
+llama-index-llms-huggingface
+llama-index-embeddings-fastembed
+llama-index-graph-stores-neo4j
+llama-index-tools-neo4j
+fastembed
+chromadb
+llama-index-vector-stores-chroma
+einops
+accelerate
+sentence-transformers
+llama-index-llms-mistralai
+llama-index-llms-openai
+
+
